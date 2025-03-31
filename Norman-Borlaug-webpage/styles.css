@@ -1,0 +1,91 @@
+* {
+    font-family: "Poppins";
+}
+
+.parent-container {
+    background-color: #e6e6e6;
+    border-radius: 0.5%;
+    padding: 3%;
+    margin: 3% 0 ;
+}
+
+#title, #sub-title {
+    text-align: center;
+}
+
+#title {
+    font-size: 2.5em;
+    color: hsl(0, 0%, 35%)
+}
+
+#sub-title {
+    margin-bottom: 3%;
+    font-size: medium;
+}
+
+#img-div {
+    background-color: white;
+    padding: 0.5em;
+    border-radius: 1%;
+    text-align: center;
+    font-size: 15px;
+    font-weight: normal;
+}
+
+img {
+    display: block;
+    border-radius: 1%;
+    margin-bottom: 2%;
+}
+
+#image {
+    max-width: 100%;
+    height: auto;
+    align-items: center;
+}
+
+.timeline-container {
+    padding: 3% 4%;
+    text-align: center;
+    width: 85%;
+    margin-left: 3%;
+}
+
+h2 {
+    font-size: 1.2em;
+    font-weight: 600;
+    margin: 5%;
+    color: hsl(0, 0%, 11%);
+}
+
+.timeline-container li {
+    text-align: left;
+    margin-bottom: 3%;
+    font-size: 15px;
+}
+
+bold {
+    font-weight: 600;
+}
+
+.timeline-container #tribute-info {
+    text-align: justify;
+    padding: 0 5%;
+    font-style: italic;
+    margin-top: 9%;
+    font-size: 14px;
+}
+
+div .reference {
+    font-weight: 550;
+    font-size: 19px;
+    color: #414141;
+}
+
+div .reference a {
+    color: #0e75b1;
+}
+
+div .reference a:visited {
+    color: #0e75b1;
+}
