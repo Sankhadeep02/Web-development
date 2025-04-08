@@ -4,10 +4,7 @@ This is a simple, responsive **Product Landing Page** built with HTML and CSS, s
 
 ## 🌐 Live Demo
 
-👉 [Live Site](YOUR_LIVE_LINK_HERE)
-
-> Replace `YOUR_LIVE_LINK_HERE` with your actual deployment link (e.g., GitHub Pages, Vercel, Netlify, etc.).
-
+👉 [Live Site](https://sankhadeep02.github.io/Web-development/Product-landing-page/)
 
 ---
 
