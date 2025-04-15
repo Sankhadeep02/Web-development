@@ -29,4 +29,8 @@ This is a simple, responsive **Product Landing Page** built with HTML and CSS, s
 - CSS3  
 - Responsive Web Design principles
 
+---
 
+## 🧑‍💻 Author
+
+Built with ❤️ by Sankhadeep 
