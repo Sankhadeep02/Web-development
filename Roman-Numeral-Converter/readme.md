@@ -4,9 +4,8 @@ A simple and responsive web app that converts numbers into Roman numerals. Built
 
 ## 🚀 Live Demo
 
-<a href="https://sankhadeep02.github.io/Web-development/Roman-Numeral-Converter/" target="_blank" rel="noopener noreferrer">
-👉 Click here to try the converter
-</a>
+👉 [Click here to try the converter](https://sankhadeep02.github.io/Web-development/Roman-Numeral-Converter/)  
+*(Replace the URL above with your actual live link once deployed)*
 
 ---
 
