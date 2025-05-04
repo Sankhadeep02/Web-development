@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(10, 10, 35);
+    color: rgb(223, 223, 226);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#main-section {
+    width: 550px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+}
+
+#input-output {
+    padding-top: 30px;
+}
+
+h2 {
+    font-size: 18px;
+}
+
+input {
+    font-size: large;
+    padding-left: 5px;
+    margin: 10px 0;
+}
+
+button {
+    display: block;
+    margin: auto;
+    height: 30px;
+    width: 150px;
+    font-size: 20px;
+    background-color: rgb(254, 199, 72);
+    border: 2px rgb(254, 172, 50) solid;
+    font-weight: 600;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: rgb(254, 172, 50);
+}
+
+#change-due {
+    margin: 10px 0;
+    height: 190px;
+    font-size: 14px;
+}
+
+#cash-info {
+    width: 70%;
+    margin: auto;
+}
+
+#price-display {
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+    width: 150px;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 8px rgb(153, 201, 255) solid;
+}
+
+#separator{
+    background-color: rgb(153, 201, 255);
+    width: 30px;
+    height: 20px;
+    margin: auto;
+}
+
+#cashier-details-display {
+    background-color: rgb(153, 201, 255);
+    color: black;
+    border-radius: 20px;
+    height: 200px;
+    width: 250px;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#changes-left {
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    height: 90%;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: small;
+}
