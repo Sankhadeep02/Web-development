@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPG Creature Search App</title>
+    <link rel="shortcut icon" href="./Favicon/icon2.png" type="image/x-icon">
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <h1 id="project-header">RPG Creature Search App</h1>
+    <div id="main-container">
+        <div id="search-container">
+            <h2 id="search-instruction">Search for Creature Name or ID:</h2>
+            <div id="input-and-search-container">
+                <input id="search-input" type="text" required>
+                <button id="search-button">Search</button>
+            </div>
+        </div>
+        <div id="creature-container">
+            <div class="single-row">
+                <div id="creature-name"></div>
+                <div id="creature-id"></div>
+            </div>
+            <div class="single-row">
+                <div id="weight"></div>
+                <div id="height"></div>
+            </div>
+            <div id="types" class="single-row"></div>
+            <div id="special">
+                <div id="special-name"></div>
+                <div id="special-description"></div>
+            </div>
+        </div>
+        <div id="stats-container">
+            <div class="stat-row first">
+                <div class = "stat-header first">Base</div>
+                <div class="stat-value first">Stats</div>
+            </div>
+            <div class="stat-row">
+                <div class = "stat-header">HP</div>
+                <div id="hp" class="stat-value"></div>
+            </div>
+            <div class="stat-row">
+                <div class = "stat-header">Attack</div>
+                <div id="attack" class="stat-value"></div>
+            </div>
+            <div class="stat-row">
+                <div class = "stat-header">Defense</div>
+                <div id="defense" class="stat-value"></div>
+            </div>
+            <div class="stat-row">
+                <div class = "stat-header">Sp. Attack</div>
+                <div id="special-attack" class="stat-value"></div>
+            </div>
+            <div class="stat-row">
+                <div class = "stat-header">Sp. Defense</div>
+                <div id="special-defense" class="stat-value"></div>
+            </div>
+            <div class="stat-row">
+                <div class = "stat-header">Speed</div>
+                <div id="speed" class="stat-value"></div>
+            </div>
+        </div>
+    </div>
+
+
+    <script src="./script.js"></script>
+</body>
+</html>
