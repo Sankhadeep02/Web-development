@@ -1,8 +1,0 @@
-1. ✅ Load more pokemons while scrolling in the initial page
-2. ✅ A faded color based on the types of the pokemons 
-3. ✅ Beautify the details page
-4. ✅ Add animation in the cards page
-5. ✅ Evolution aspect for each pokemon -- doing an array is returned in cosole showing the name of the pokemons -> update it to clickable images
-6. ✅ Seach feature by name 
-8. ✅ Add a scroll to top button
-9. ✅ A way to return to the main screen without hitting reload or refresh
