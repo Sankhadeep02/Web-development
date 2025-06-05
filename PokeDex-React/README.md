@@ -1,6 +1,3 @@
-Absolutely! Here's the complete `README.md` fully enclosed in a Markdown code block so you can directly copy and paste it:
-
-
 # 🧿 Pokédex React App
 
 A modern, responsive Pokédex web app built using **React** and **Material UI**.  
